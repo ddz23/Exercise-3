@@ -1,1 +1,2 @@
-# Exercise-3
+# exercise-3
+Data dari API dan filtering Data API
